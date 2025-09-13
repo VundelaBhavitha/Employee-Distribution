@@ -62,7 +62,3 @@ To get started with the HR Data Dashboard and explore the rich visualizations an
 I hope you find this HR Data Dashboard insightful and valuable for your organization's HR planning and decision-making processes. Should you have any questions or feedback, feel free to reach out. Happy analyzing!
 
 
-
-## Contact me!
-
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
